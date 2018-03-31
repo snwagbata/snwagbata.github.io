@@ -552,25 +552,25 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #contact .social i.fa {
 	font-size: 24px;
 	padding-top: 8px;
-	color: #cf5022;
+	color: #217bcf;
 	border-radius: 4px;
 	transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-	color: #a13e1a;
+	color: #1961a0;
 }
 /* Footer Section*/
 #footer {
 	background: #333;
 	color: #777;
-	padding: 20px 0;
+	padding: 10px 0;
 	text-align: center;
 }
 #footer a {
 	color: #999999;
 }
 #footer a:hover, a:focus {
-	color: #e75926;
+	color: #2579e7;
 }
 #footer p {
 	font-size: 13px;
