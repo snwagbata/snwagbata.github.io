@@ -30,16 +30,6 @@
     }; 
     
         
-$(document).ready(function shake(){
-    $('img.mole').click(function(e){
-        $(this).shake({
-            interval: 200,
-            distance: 100,
-            times: 20
-        });
-    });
-
-   })
     })(jQuery);
 
 
@@ -115,9 +105,7 @@ function whac(e) {
   (function($) { $(document).ready(function shake(){
     $('img.mole').click(function(e){
         $(this).shake({
-            interval: 200,
-            distance: 100,
-            times: 20
+            complete: 1
         });
     });
 
