@@ -2466,7 +2466,6 @@ ul.actions.fit.stacked {
 /* Feature Icons */
 
 ul.feature-icons {
-  list-style: none;
   padding-left: 0;
 }
 
@@ -2480,7 +2479,7 @@ ul.feature-icons li {
   width: 48%;
 }
 
-ul.feature-icons li:before {
+/* ul.feature-icons li:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   display: inline-block;
@@ -2491,9 +2490,9 @@ ul.feature-icons li:before {
   text-transform: none !important;
   font-family: "Font Awesome 5 Free";
   font-weight: 400;
-}
+} */
 
-ul.feature-icons li:before {
+/* ul.feature-icons li:before {
   background: #64a2d0;
   border-radius: 100%;
   color: #ffffff;
@@ -2505,7 +2504,7 @@ ul.feature-icons li:before {
   text-align: center;
   top: 0;
   width: 2.5em;
-}
+} */
 
 /* Icons */
 
